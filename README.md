@@ -1,5 +1,8 @@
 ## Hi there 👋
 
+<img src="https://user-images.githubusercontent.com/66042/123132562-40bdef80-d425-11eb-90ad-29a4e618831a.png"/>
+
+
 <!--
 **oenicferrier/oenicferrier** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
